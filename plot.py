@@ -5,7 +5,7 @@ import matplotlib as mpl
 
 
 
-def python_test():
+def generate_plot():
 
 
     SAMPLE_SIZE = 16
@@ -45,4 +45,4 @@ def python_test():
 
 
     
-python_test()
+generate_plot()
