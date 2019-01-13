@@ -1,7 +1,6 @@
 <h3>Increase of Surface Area and Volume of Regular Polyhedrons</h3>
 
 
-<\sum_{i=1}^{10} t_i>
 
 
 
