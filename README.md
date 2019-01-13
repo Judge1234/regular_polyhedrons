@@ -1,4 +1,5 @@
-<h3 ALIGN=CENTER>Increase of Surface Area & Volume with Edge Length of Regular Polyhedrons</h3>
+<h3 ALIGN=CENTER>Regular Polyhedrons</h3>
+<h4 ALIGN=CENTER>Increase of Surface Area & Volume with Edge Length</h4>
 
 <br>
 <br>
